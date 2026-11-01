@@ -53,8 +53,8 @@ def count_full_with_hole(size):
 
 
 def main():
-    #part1()
-    #part2()
+    part1()
+    part2()
     part3()
 
 

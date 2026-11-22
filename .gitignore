@@ -1,0 +1,7 @@
+# Puzzle inputs (Everybody Codes asks that these are not published)
+quest[0-9][0-9]_p[1-3].txt
+
+__pycache__/
+*.pyc
+.idea/
+.vscode/
